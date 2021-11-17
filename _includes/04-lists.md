@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+A list
+- 🥑
+- 🚙
+
+in order
+1. choose
+2. rocky
