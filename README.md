@@ -14,3 +14,4 @@ This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
 
 # badge
 [![C/C++ CI](https://github.com/SachinSingh07/markdown-portfolio/actions/workflows/x-cpp.yml/badge.svg)](https://github.com/SachinSingh07/markdown-portfolio/actions/workflows/x-cpp.yml)
+[![C/C++ CI](https://github.com/SachinSingh07/markdown-portfolio/actions/workflows/z-cpp.yml/badge.svg)](https://github.com/SachinSingh07/markdown-portfolio/actions/workflows/z-cpp.yml)
